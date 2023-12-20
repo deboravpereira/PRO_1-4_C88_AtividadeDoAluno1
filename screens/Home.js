@@ -19,6 +19,7 @@ export default class HomeScreen extends Component {
                     </View>
                     <TouchableOpacity style={styles.routeCard}>
                         <Text>Localização da EEI</Text>
+                        <Text>{"Saber mais --->"}</Text>
                     </TouchableOpacity>
             </View>
         );
